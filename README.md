@@ -1,6 +1,7 @@
 # 🌌 Galaxy Gravity Optimization (GGO) Algorithm
 ### Galaxy Gravity Optimization(GGO) An Algorithm for Optimization, Inspired by Comets Life Cycle
-
+- Link to the paper:
+- https://ieeexplore.ieee.org/abstract/document/8515125
 ---
 
 ## 📚 Description
@@ -40,12 +41,7 @@ Galaxy Gravity Optimization is a nature-inspired evolutionary algorithm that mim
 ![ggo2](https://github.com/user-attachments/assets/5c4f6347-c321-45dd-9772-dfeffa3c1f9b)
 
 ---
-
-
-
-
-
-
+- DOI: 10.1109/AISP.2017.8515125
 - ------------------------------------------------ 
 
 
