@@ -40,8 +40,6 @@ Galaxy Gravity Optimization is a nature-inspired evolutionary algorithm that mim
    - Track and plot the best fitness values over iterations.
 ![ggo2](https://github.com/user-attachments/assets/5c4f6347-c321-45dd-9772-dfeffa3c1f9b)
 
----
-- DOI: 10.1109/AISP.2017.8515125
 - ------------------------------------------------ 
 
 
@@ -49,3 +47,4 @@ Galaxy Gravity Optimization is a nature-inspired evolutionary algorithm that mim
 
 ### Please cite:
 - Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Mir Hossein Dezfoulian. "Galaxy gravity optimization (GGO) an algorithm for optimization, inspired by comets life cycle." 2017 Artificial Intelligence and Signal Processing Conference (AISP). IEEE, 2017.
+- DOI: 10.1109/AISP.2017.8515125
